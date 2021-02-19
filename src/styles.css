@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.CharCounter,
+.passVerify,
+.Counter {
+  margin-bottom: 3rem;
+}
+.pass {
+  margin-bottom: 1rem;
+}
+.Alpha,
+.disableSubmit {
+  margin: 3rem 0 3rem;
+}
+.add {
+  margin: 0 1rem;
+}
+
+.subAPP {
+  background-color: black;
+  height: max-content;
+  width: max-content;
+}
+.DarkMode {
+  margin: 3rem 0 3rem;
+  padding: 0 5rem 5rem;
+}
+.darkBtn {
+  border-radius: 1rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  outline: 0;
+}
